@@ -27,7 +27,7 @@ const Contact = () => {
             <br />
             <button class="btn btn-info w-75 p-3 font-weight-bold text-uppercase">
               Send Email
-            </button>
+            </button> 
           </div>
         </div>
         <div className="col-md-6">
