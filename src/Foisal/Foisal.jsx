@@ -3,7 +3,7 @@
 const Foisal = () => {
     return (
         <div>
-            <h2>Hello World -Print " Foisal "</h2>
+            <h2>Hello World -Print "Foisal"</h2>
         </div>
     );
 };
