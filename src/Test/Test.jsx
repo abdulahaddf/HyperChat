@@ -6,6 +6,7 @@ const Test = () => {
             <h1>Test component from xihad</h1>
             <h1>Another Test component from xihad</h1>
             <h1>Another Test line from xihad</h1>
+            <h1>Updated by ahad</h1>
         </div>
     );
 };
